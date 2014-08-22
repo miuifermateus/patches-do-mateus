@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string name="app_label">Enviar erro</string>
+    <string name="report_miui">Enviar erro</string>
+    <string name="menu_copy">Copiar</string>
+    <string name="menu_attach_screenshot">Anexar captura de ecrã</string>
+    <string name="menu_discard">Rejeitar projecto</string>
+    <string name="description">Descreva o erro ou escreva a sua opinião aqui</string>
+    <string name="btn_send">Enviar</string>
+    <string name="err_type_reboot">Reinicializações aleatórias</string>
+    <string name="err_type_force_close">Paragens forçadas</string>
+    <string name="err_type_network">Problema de rede</string>
+    <string name="err_type_others">Outros</string>
+    <string name="err_type_power_consuming">Consumo de energia</string>
+    <string name="err_type_call">Problema nas chamadas</string>
+    <string name="err_type_suggestion">Sugestões</string>
+    <string name="err_type_data_lost">Dados perdidos</string>
+    <string name="status_msg_pending_upload">A enviar %d comentários…</string>
+    <string name="status_msg_collecting_log">Recolha de registos</string>
+    <string name="action_submit">Enviar</string>
+    <string name="section_err_type">Tipo de erro</string>
+    <string name="section_description">Descrição</string>
+    <string name="section_screenshot">Captura de ecrã</string>
+    <string name="toast_report_sent_succeed">O relatório foi enviado</string>
+    <string name="toast_report_sent_failed">Falha ao enviar o relatório</string>
+    <string name="toast_report_copied_to_clipboard">Relatório copiado para a área de transferência</string>
+    <string name="toast_description_required">A descrição é necessária</string>
+    <string name="toast_pending_log_collection">Ainda a receber registos…</string>
+    <string name="toast_feedback_submitted">O seu comentário foi enviado</string>
+    <string name="toast_feedback_pending_wlan">O seu comentário será enviado quando a Wi-Fi estiver ligada</string>
+    <string name="discard_draft_dialog_title">Rejeitar rascunho</string>
+    <string name="discard_draft_dialog_content">Quaisquer alterações feitas a este relatório será perdidas.</string>
+    <string name="discard_draft_dialog_button_discard">Rejeitar</string>
+    <string name="discard_draft_dialog_button_cancel">Cancelar</string>
+    <string name="network_unavailable_dialog_title">Verifique a sua ligação de rede</string>
+    <string name="network_unavailable_dialog_content">Não é possível ligar à rede. A sua mensagem será enviada quando a ligação de dados estiver ligada</string>
+    <string name="network_unavailable_dialog_button_ok">OK</string>
+    <string name="wlan_unavailable_dialog_title">Uso de dados</string>
+    <string name="wlan_unavailable_dialog_content">Ao enviar o seu relatório vai usar %s de dados. Ou espere uma ligação Wi-Fi para enviar, selecione esperar.</string>
+    <string name="wlan_unavailable_dialog_button_sent">Enviar agora</string>
+    <string name="wlan_unavailable_dialog_button_ok">Espere</string>
+    <string name="packaging_dialog_content">A gerar o relatório…</string>
+</resources>

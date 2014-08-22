@@ -1,0 +1,4 @@
+<resources>
+    <string name="slider_text">»»» Desligar »»»</string>
+    <string name="snooze_message">Suspender por%d min</string>
+</resources>

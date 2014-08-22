@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string-array name="traffic_uints">
+        <item>B</item>
+        <item>KB</item>
+        <item>MB</item>
+        <item>GB</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>Ontem</item>
+        <item>Hoje</item>
+        <item>Este mês</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Ontem: "</item>
+        <item>"Hoje: "</item>
+        <item>"Este Mês: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Ontem (Dados)</item>
+        <item>Hoje (Dados)</item>
+        <item>Este mês (Data)</item>
+        <item>Ontem Wi-Fi</item>
+        <item>Hoje Wi-Fi</item>
+        <item>Este mês Wi-Fi</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Ontem (Dados)</item>
+        <item>Hoje (Dados)</item>
+        <item>Este mês (Dados)</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 segs</item>
+        <item>4 segs</item>
+        <item>5 segs</item>
+        <item>6 segs</item>
+        <item>7 segs</item>
+        <item>8 segs</item>
+        <item>9 segs</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Móvel usado "</item>
+        <item>"Wi-Fi usado "</item>
+        <item>"Uso total "</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>Dados móveis usados</item>
+        <item>Wi-Fi usado</item>
+        <item>Uso total</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Obter automaticamente o modelo de mensagem</item>
+        <item>Definir manualmente o modelo de mensagem</item>
+    </string-array>
+</resources>

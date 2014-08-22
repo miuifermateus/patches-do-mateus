@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string-array name="channel_tabs">
+        <item>Sucesso</item>
+        <item>Posição</item>
+        <item>Últimos</item>
+    </string-array>
+    <string-array name="channel_featured_tabs">
+        <item>Preferidos</item>
+        <item>Posição</item>
+        <item>Últimos</item>
+    </string-array>
+    <string-array name="home_tabs">
+        <item>Online</item>
+        <item>Local</item>
+    </string-array>
+    <string-array name="series_detail_tabs">
+        <item>Episódio</item>
+        <item>Introdução</item>
+    </string-array>
+    <string-array name="addon_list_tabs">
+        <item>Todos os Especiais</item>
+        <item>Meus Especiais</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string name="app_label">Localização de rede</string>
+    <string name="location_warning_title">Consentimento de localização</string>
+    <string name="location_warning_message">Permitir o serviço de localização do AutoNavi para recolher dados de localização anónimos. Alguns dados podem ser armazenados no seu dispositivo, e a recolha pode ocorrer mesmo quando nenhuma aplicação está a ser executada. Podem ser aplicadas taxas de uso de dados aplicáveis durante este processo.</string>
+    <string name="agree">Concorda</string>
+    <string name="disagree">Não concordo</string>
+</resources>

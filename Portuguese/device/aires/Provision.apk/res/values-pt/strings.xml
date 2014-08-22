@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string name="next">Avançar</string>
+    <string name="continues">Continuar</string>
+    <string name="shutdown">Desligar</string>
+    <string name="other_service_label">Outro Serviço</string>
+    <string name="other_service_location">Serviço de localização</string>
+    <string name="other_service_location_summary">Serviço de localização permite que várias aplicações possam obter a sua localização utilizando o GPS</string>
+    <string name="other_service_google_location">Serviço de Localização Google</string>
+    <string name="other_service_google_location_use">Localização e Pesquisa Google</string>
+    <string name="other_service_google_location_use_summary">Deixe o Google utilizar a sua localização para melhorar os resultados da pesquisa e outros serviços</string>
+    <string name="other_service_google_location_use_help">Permitir que o serviço de localização do Google guarde dados de localização anónimos. Vai ocorrer mesmo quando não há aplicações em execução.</string>
+    <string name="other_service_permission_manager">Gerir permissões das aplicações</string>
+    <string name="other_service_permission_manager_summary">Gerir aplicações para segurança e privacidade</string>
+    <string name="other_service_user_experience">Programa de testes de utilização</string>
+    <string name="other_service_user_experience_summary0">Contamos consigo para usar o nosso produto e recursos e esperamos que possa nos ajudar, fornecendo feedback. O seu comentário será assegurado através do nosso.</string>
+    <string name="other_service_user_experience_summary1">(Ver Política de Privacidade)</string>
+    <string name="sim_card_detection_dialog_message">A verificar o cartão SIM…</string>
+    <string name="sim_card_detection_label">Cartão SIM</string>
+    <string name="sim_card_detection_info" />
+    <string name="sim_card_detection_status_absent">Não foi detectado nenhum cartão SIM</string>
+    <string name="setup_complete_label">Obrigado</string>
+    <string name="setup_complete_info" />
+    <string name="setup_complete_start">Começar a usar a MIUI</string>
+    <string name="setup_complete_summary">Configuração concluída! Disfrute :)</string>
+</resources>

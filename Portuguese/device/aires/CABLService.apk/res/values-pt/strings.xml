@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string name="app_name">Definições de Conteúdo adaptável da Luz de fundo</string>
+    <string name="cabl_settings_title">Definições de Conteúdo adaptável da Luz de fundo</string>
+    <string name="cabl_enable_title">Activar Conteúdo adaptável da Luz de fundo</string>
+    <string name="cabl_enable_summary_on">A luz de fundo irá reajustar com base no conteúdo do ecrã</string>
+    <string name="cabl_enable_summary_off">TA luz de fundo não irá reajustar com base no conteúdo do ecrã</string>
+    <string name="cabl_levels_title">Níveis de energia</string>
+    <string name="cabl_levels_summary">Um nível mais baixo significa mais energia, mas poderá fazer com que o ecrã seja mais escuro do que o esperado</string>
+    <string name="cabl_info_default">Desconhecido</string>
+    <string name="cabl_version_title">Versão CABL</string>
+</resources>
